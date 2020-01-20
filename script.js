@@ -1,4 +1,3 @@
-// 'use strict'
 let javaCode = function() {
   'use strict'
   let x = prompt('Enter your code');
@@ -13,4 +12,3 @@ let javaCode = function() {
   }
 }
 javaCode();
- 
